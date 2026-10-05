@@ -1,0 +1,47 @@
+{
+  "inventario_total": 1273,
+  "status": {
+    "sem_extracao_textual": 368,
+    "extraido": 877,
+    "excluido_privacidade": 26,
+    "lockfile": 2
+  },
+  "falas": 2133,
+  "falas_match_exato": 2133,
+  "falas_mismatch": [],
+  "citações_por_nota": {
+    "3": 6,
+    "4": 2,
+    "5": 4,
+    "6": 7,
+    "7": 11
+  },
+  "citações_sem_match": {
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": []
+  },
+  "citações_com_mais_de_25_palavras": {
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": []
+  },
+  "datas_sem_origem": [],
+  "falas_datadas_sem_origem": [],
+  "pdf_paginas": {
+    "01_mapa_e_volume.pdf": 2,
+    "02_trabalho_tecnico.pdf": 3,
+    "03_autorais_e_estudos.pdf": 7,
+    "04_criacao.pdf": 8,
+    "05_design_e_publicidade.pdf": 2,
+    "06_decisoes_e_criterios.pdf": 2,
+    "07_energia_e_desgaste.pdf": 2,
+    "08_dossie_a.pdf": 9,
+    "08_dossie_b.pdf": 10
+  },
+  "pdf_acima_de_20": []
+}

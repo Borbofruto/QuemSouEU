@@ -1,0 +1,22 @@
+{
+  "arquivos_total": 1273,
+  "status": {
+    "sem_extracao_textual": 368,
+    "extraido": 877,
+    "excluido_privacidade": 26,
+    "lockfile": 2
+  },
+  "falas_total": 2133,
+  "falas_por_bloco": {
+    "Artigos": 10,
+    "Jogos": 37,
+    "Livros": 59,
+    "Quem Sou Eu": 2027
+  },
+  "notas": [
+    "Falas apenas com marcador explícito; documentos de autoria incerta não entram nas contagens de Gabriel.",
+    "Falas textualmente duplicadas, cópias segmentadas e arquivos exatamente iguais não entram duas vezes.",
+    "Datas de modificação não foram tomadas como datas dos acontecimentos.",
+    "Blocos sensíveis inteiros e arquivos WhatsApp foram excluídos."
+  ]
+}
