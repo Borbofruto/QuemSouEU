@@ -1,0 +1,121 @@
+{
+ "Música": {
+  "arquivos_DOC": 13,
+  "turnos_doc": 13,
+  "chars_doc": 9187
+ },
+ "Livros": {
+  "arquivos_DOC": 26,
+  "turnos_doc": 26,
+  "chars_doc": 956475,
+  "arquivos_VD": 1,
+  "turnos_ia": 62,
+  "chars_ia": 218610,
+  "turnos_ela": 61,
+  "chars_ela": 27667,
+  "whatsapp_arquivos_so_contagem": 1,
+  "whatsapp_chars": 1549635
+ },
+ "RPG": {
+  "arquivos_DOC": 373,
+  "turnos_doc": 228,
+  "chars_doc": 4004798,
+  "turnos_duplicados_descartados": 146,
+  "arquivos_BQ": 3,
+  "turnos_ia": 41,
+  "chars_ia": 25762,
+  "turnos_ela": 40,
+  "chars_ela": 107810
+ },
+ "Linguas": {
+  "arquivos_DOC": 4,
+  "turnos_doc": 4,
+  "chars_doc": 7181
+ },
+ "Quem Sou Eu": {
+  "arquivos_VD": 50,
+  "turnos_ia": 2835,
+  "chars_ia": 7992129,
+  "turnos_ela": 2794,
+  "chars_ela": 3018276,
+  "turnos_duplicados_descartados": 14620,
+  "arquivos_DOC": 41,
+  "turnos_doc": 41,
+  "chars_doc": 1457865,
+  "whatsapp_arquivos_so_contagem": 6,
+  "whatsapp_chars": 4778341,
+  "sensivel_so_contagem": 1,
+  "sensivel_chars": 37973,
+  "arquivos_BQ": 4,
+  "whatsapp_linhas_removidas_dentro_de_arquivos": 441447,
+  "whatsapp_chars_removidos": 22320456
+ },
+ "Artigos": {
+  "arquivos_DOC": 177,
+  "turnos_doc": 176,
+  "chars_doc": 1334763,
+  "arquivos_VD": 2,
+  "turnos_ia": 92,
+  "chars_ia": 103239,
+  "turnos_ela": 80,
+  "chars_ela": 20117,
+  "arquivos_BQ": 7,
+  "turnos_duplicados_descartados": 21
+ },
+ "Ideias soltas": {
+  "arquivos_DOC": 2,
+  "turnos_doc": 2,
+  "chars_doc": 17748,
+  "arquivos_VD": 1,
+  "turnos_ela": 3,
+  "chars_ela": 1728,
+  "turnos_ia": 3,
+  "chars_ia": 12625
+ },
+ "Estudos": {
+  "arquivos_DOC": 44,
+  "turnos_doc": 36,
+  "chars_doc": 1097921,
+  "turnos_duplicados_descartados": 8
+ },
+ "Robótica Takes": {
+  "arquivos_DOC": 5,
+  "turnos_doc": 5,
+  "chars_doc": 114499
+ },
+ "Linkedin": {
+  "arquivos_DOC": 8,
+  "turnos_duplicados_descartados": 2,
+  "turnos_doc": 6,
+  "chars_doc": 30986
+ },
+ "Projetos": {
+  "arquivos_DOC": 167,
+  "turnos_doc": 163,
+  "chars_doc": 1759405,
+  "turnos_duplicados_descartados": 1051,
+  "arquivos_VD": 23,
+  "turnos_ia": 994,
+  "chars_ia": 2247692,
+  "turnos_ela": 946,
+  "chars_ela": 1102937,
+  "arquivos_BQ": 9
+ },
+ "Jogos": {
+  "arquivos_DOC": 14,
+  "turnos_doc": 9,
+  "chars_doc": 133202,
+  "arquivos_VD": 3,
+  "turnos_ela": 37,
+  "chars_ela": 70814,
+  "turnos_ia": 23,
+  "chars_ia": 66403,
+  "turnos_duplicados_descartados": 6
+ },
+ "Automaturgia": {
+  "arquivos_DOC": 26,
+  "turnos_doc": 12,
+  "chars_doc": 302634,
+  "turnos_duplicados_descartados": 14
+ }
+}
